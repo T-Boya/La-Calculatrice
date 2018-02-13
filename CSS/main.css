@@ -1,0 +1,19 @@
+html, body {
+    background: url("/IMG/background.jpg")
+}
+
+.name {
+    padding-top: 30vh;
+    padding-bottom: 0vh;
+    color: black;
+    font-size: 200%;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.heading {
+    padding-top: 0vh;
+    font-size: 150%;
+    color: black;
+    text-align: center;
+}
